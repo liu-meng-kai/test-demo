@@ -14,6 +14,7 @@ public:
 
 private:
     int a;
+    int b;
 };
 
 

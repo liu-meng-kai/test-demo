@@ -6,7 +6,8 @@
 
 Demo::Demo()
 {
-
+    a = 1;
+    b = 2;
 }
 
 Demo::~Demo()
